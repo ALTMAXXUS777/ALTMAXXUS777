@@ -15,10 +15,10 @@ Right now, I'm focused on my university studies while constantly exploring new t
 
 ### 🛠️ My Tech Stack (What I'm comfortable with)
 
-* **Languages:** JavaScript (ES6+), HTML5, CSS3
-* **Frameworks/Libraries:** [Add your frameworks here, e.g., React, Vue, Angular]
-* **Tools:** Git, VS Code, [e.g., Figma, npm]
-* **Learning Next:** [What you are learning, e.g., TypeScript, Svelte]
+* **Languages:** CSS3, HTML5, Java, Kotlin
+* **Frameworks/Libraries:** Angular
+* **Tools:** Git, VS Code, npm
+* **Learning Next:** I'm learning about data structure
 
 ### 🎮 Outside of Code
 
